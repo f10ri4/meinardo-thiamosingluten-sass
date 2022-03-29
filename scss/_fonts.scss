@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,600;1,400;1,500&display=swap');
+
+$fontMain:'Lora', sans-serif;
+
+* {
+	padding:0;
+	margin: 0;
+}
+
+//Definicion de variable
+
+//colores
+$fondoNav: #dacfda;
+$mainColor: #c1bdd6;
+$secondaryColor:#c400c7;
+$keyColor:#d7a6b0;
+$fondoCont: #FBEAFF;
+$darkBlue: #103783;
+$fondoProdu: #eae9f5;
+
+//Sizing
+$w-100: 100%;
+$w-50: 50%;
+$w-25: 50%;
+
+//Variables para los textos
+
+$textXL:4em;
+$textLg: 3em;
+$textMd: 2em;
+$textSm: 1em;
+

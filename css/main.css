@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,600;1,400;1,500&display=swap");
+* {
+  padding: 0;
+  margin: 0; }
+
+.bg__fondonav {
+  background-color: #dacfda; }
+
+#botonera img {
+  width: 50%; }
+
+#botonera ul {
+  font-family: "Lora", sans-serif; }
+  #botonera ul li a:hover {
+    color: #c400c7;
+    font-weight: 600;
+    font-size: 1em; }
+
+.contacto {
+  background-color: #FBEAFF; }
+
+#reparto {
+  background-color: #eae9f5;
+  font-family: "Lora", sans-serif;
+  color: #103783; }
+
+.btn-thiamo {
+  background-color: #d7a6b0; }
+  .btn-thiamo:hover {
+    background: linear-gradient(to top, #dacfda, #c400c7);
+    transition: all 2s;
+    cursor: pointer; }
+
+.bg__footer {
+  background-color: #d7a6b0; }
+
+#selectores li {
+  font-family: "Lora", sans-serif; }
+  #selectores li:hover {
+    background-color: #c1bdd6; }

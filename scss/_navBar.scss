@@ -1,0 +1,26 @@
+.bg__fondonav{
+	background-color: $fondoNav;
+}
+
+
+#botonera img {
+	width: $w-50;
+}
+
+#botonera{
+	ul{
+		font-family: $fontMain;
+		li{
+			a{
+				&:hover{
+					color: $secondaryColor;
+					font-weight: 600;
+					font-size: $textSm;
+					
+				}
+
+			}
+		}
+	}
+
+}

@@ -1,0 +1,12 @@
+.bg__footer {
+	background-color: $keyColor;
+}
+
+#selectores { 
+		li{
+			font-family: $fontMain;
+			&:hover{
+	background-color: $mainColor;
+         	}
+        }
+}
